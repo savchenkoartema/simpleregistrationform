@@ -1,0 +1,15 @@
+{
+  "name": "simpleregistrationform",
+  "version": "1.0.0",
+  "description": "A simple user registration and login functionality with validation for email addresses and passwords.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savchenkoartema/simpleregistrationform.git"
+  },
+  "author": "savchenkoartema",
+  "license": "MIT",
+  "dependencies": {
+    "simpleloginpwdform": "^1.0.0"
+  }
+}
